@@ -1,0 +1,3 @@
+Esse sou eu fazendo a primeira lição prática envolvendo git do TOP. 
+Mas tenho um problema, uso duas contas do github (uma da facul usando email edu e outra pessoal),
+e gostaria de usar o email pessoal para as alterações, mas, por algum motivo, esta indo na conta do .edu
